@@ -1,0 +1,27 @@
+:root {
+   background-color: rgb(140, 221, 204);
+}
+body {
+    background-color: rgb(130, 170, 204);
+    } 
+    h1 {
+        background-color: black
+       border-radius: 15cm;
+       background-position: 5cm;
+        }
+    h4 {
+        background-color: beige;
+        color: beige;
+        text-decoration: none;
+        padding: 10px;
+        border-radius: 20px;
+    }
+    h3 {
+        color: blueviolet;
+    }
+header { background-color: var(--cor-de-titulo)}
+h1 {
+    text-align: center;
+    color: azure;
+    text-decoration: underline;
+}
